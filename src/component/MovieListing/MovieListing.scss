@@ -5,6 +5,6 @@
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(280px,1fr));
     @media screen and (max-width:400px) {
-        grid-template-columns: repeat(auto-fit,minmax(234px,1fr));
+        grid-template-columns: repeat(auto-fit,minmax(204px,1fr));
     }
 }

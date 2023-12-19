@@ -11,3 +11,5 @@ const store=configureStore({
 })
 
 export {store}
+
+// STEPS IN USING REDUX TOOLKIT
